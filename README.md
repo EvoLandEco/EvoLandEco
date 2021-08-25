@@ -75,7 +75,7 @@
 ### 🕹 Games
 <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white">
 <img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=whit">
-<img src="https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white">
+<img src="https://img.shields.io/badge/PlayStation_5-003791?style=flat&logo=playstation5&logoColor=white">
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white">
 <img src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Twitch-451093?logo=twitch&logoColor=white">
