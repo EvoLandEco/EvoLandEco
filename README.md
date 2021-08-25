@@ -1,19 +1,34 @@
-### 👋 Hi there 
-I am a PhD student @Rijksuniversiteit Groningen
+<h3 align="center">
+  Welcome to Tianjian's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+**I am a PhD student @Rijksuniversiteit Groningen**
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=EvoLandEco&show_icons=true" />
 </a>
 
-- 🔭 I’m currently working on theoretical ecology
+- 🔭 I’m currently working on theoretical ecology @tece-lab
 - 🌱 I’m currently learning all but my mother language
 - 👯 I’m looking to collaborate on R projects
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I hope **GitHub Copilot** will supersede humanbeing
 
 
+## 📘 I'm currently working on:
+
+<p align="middle">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DDD&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DAISIE&theme=light&show_icons=ture" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eve&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
+</p>
+
+<p align="middle">
+  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=flat&logoColor=white&logo=repo"/></a>
+</p>
+
+## 🛠️ My favorites: 
 ### 👨‍💻 Programming Languages
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvoLandEco&show_icons=true&layout=compact" />
-</a> 
+
 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
@@ -22,8 +37,14 @@ I am a PhD student @Rijksuniversiteit Groningen
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 
-### 💻 Workspace Spec
-<img src="https://img.shields.io/badge/Microsoft-Surface%20Book%203-0067B8?style=flat&logo=microsoft&logoColor=default"> <img src="https://img.shields.io/badge/Windows-666666?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+### 💻 Devices
+<img src="https://img.shields.io/badge/Microsoft-Surface%20Book%203-0067B8?style=flat&logo=microsoft&logoColor=default"> <img src="https://img.shields.io/badge/Huawei-P40_Pro+-C7000B?logo=huawei&logoColor=white">
+<img src="https://img.shields.io/badge/Huawei-Watch GT2 Ecg-C7000B?logo=huawei&logoColor=white">
+<img src="https://img.shields.io/badge/Sennheiser-Momentum 3 Wireless-000000?logo=sennheiser&logoColor=white">
+<img src="https://img.shields.io/badge/Samsung-CJ79-000000?logo=samsung&logoColor=white">
+
+### 🧰 Workspace Spec
+<img src="https://img.shields.io/badge/Windows-666666?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-005BA4?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/R%20Studio-75AADB?style=flat&logo=rstudio&logoColor=white">
 <img src="http://img.shields.io/badge/PyCharm-20D68C?style=flat&logo=pycharm&logoColor=white">
@@ -34,13 +55,16 @@ I am a PhD student @Rijksuniversiteit Groningen
 <img src="http://img.shields.io/badge/-Anaconda-43B02A?style=flat&logo=anaconda&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-PowerShell-2D4563?style=flat&logo=powershell&logoColor=FFFFFF">
 
-### 🤺 Interests
+### 🤺 Want-to-learn
 <img src="https://img.shields.io/badge/-Arduino-008184?logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/-Raspberry_Pi-CD2B57?logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF8300.svg?logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-1C80CC?logo=wordpress&logoColor=white">
 
+
 ### 🎭 Social
 <img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=flat&logo=researchgate&logoColor=white"> 
+<img src="http://img.shields.io/badge/-QQ-169ADA?style=flat&logo=tencentqq&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-WeChat-05DB6C?style=flat&logo=wechat&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Bilibili-FB7299?style=flat&logo=bilibili&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Duolingo-78C800?style=flat&logo=duolingo&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Stack_Exchange-195398?style=flat&logo=stackexchange&logoColor=white"> 
