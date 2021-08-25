@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on R projects
 - ⚡ Fun fact: I hope **GitHub Copilot** will supersede humanbeings
 
-
 ## 🧠 I'm currently working on:
 
 <p align="middle">
@@ -29,7 +28,6 @@
 ## ✨ My favorites: 
 ### 👨‍💻 Programming Languages
 
-
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-9C033A?style=flat&logo=c%2B%2B&">
@@ -39,9 +37,9 @@
 
 ### 💻 Devices
 <img src="https://img.shields.io/badge/Microsoft-Surface%20Book%203-0067B8?style=flat&logo=microsoft&logoColor=default"> <img src="https://img.shields.io/badge/Huawei-P40_Pro+-C7000B?logo=huawei&logoColor=white">
-<img src="https://img.shields.io/badge/Huawei-Watch GT2 Ecg-C7000B?logo=huawei&logoColor=white">
-<img src="https://img.shields.io/badge/Sennheiser-Momentum 3 Wireless-000000?logo=sennheiser&logoColor=white">
+<img src="https://img.shields.io/badge/Huawei-Watch GT 2 Pro ECG-C7000B?logo=huawei&logoColor=white">
 <img src="https://img.shields.io/badge/Samsung-CJ79-144098?logo=samsung&logoColor=white">
+<img src="https://img.shields.io/badge/Sennheiser-Momentum 3 Wireless-000000?logo=sennheiser&logoColor=white">
 
 ### 🧰 Workspace Spec
 <img src="https://img.shields.io/badge/Windows-666666?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
@@ -59,7 +57,6 @@
 <img src="https://img.shields.io/badge/-Arduino-008184?logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/-Raspberry_Pi-CD2B57?logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF8300.svg?logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-1C80CC?logo=wordpress&logoColor=white">
-
 
 ### 🎭 Social
 <img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=flat&logo=researchgate&logoColor=white"> 
