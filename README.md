@@ -47,8 +47,8 @@
 <img src="https://img.shields.io/badge/Windows-388AE8?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/Intel-0071C5?style=flat&logo=intel&logoColor=white">
-<img src="http://img.shields.io/badge/-VS%20Code-005BA4?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/R%20Studio-75AADB?style=flat&logo=rstudio&logoColor=white">
+<img src="http://img.shields.io/badge/-Visual_Studio_Code-005BA4?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white">
 <img src="http://img.shields.io/badge/PyCharm-20D68C?style=flat&logo=pycharm&logoColor=white">
 <img src="http://img.shields.io/badge/Notepad%2B%2B-5CCE74?style=flat&logo=notepad%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white">
@@ -63,20 +63,36 @@
 <img src="https://img.shields.io/badge/WordPress-1C80CC?logo=wordpress&logoColor=white">
 
 ### 🎭 Social
-<img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Research_Gate-00CCBB?style=flat&logo=researchgate&logoColor=white"> 
+<img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"> 
 <img src="http://img.shields.io/badge/-QQ-169ADA?style=flat&logo=tencentqq&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-WeChat-05DB6C?style=flat&logo=wechat&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Bilibili-FB7299?style=flat&logo=bilibili&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Duolingo-78C800?style=flat&logo=duolingo&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Stack_Exchange-195398?style=flat&logo=stackexchange&logoColor=white"> 
-<img src="http://img.shields.io/badge/-Stack_Overflow-F48024?style=flat&logo=stackoverflow&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Stack Exchange-195398?style=flat&logo=stackexchange&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Stack Overflow-F48024?style=flat&logo=stackoverflow&logoColor=white"> 
 <img src="https://img.shields.io/badge/500px-black?style=flat&logo=500px&logoColor=white"> 
 <img src="https://img.shields.io/badge/Discord-404EED?style=flat&logo=discord&logoColor=white"> 
 
 ### 🕹 Games
 <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white">
-<img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=whit">
+<img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white">
 <img src="https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white">
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white">
+<img src="https://img.shields.io/badge/-GOG-411B64?logo=gogdotcom&logoColor=white">
 <img src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Twitch-451093?logo=twitch&logoColor=white">
+
+### 🎲 Misc
+<img src="https://img.shields.io/badge/KLM-00A1E4?style=flat&logo=klm&logoColor=white"> <img src="https://img.shields.io/badge/Nokia-124191?style=flat&logo=nokia&logoColor=white">
+<img src="https://img.shields.io/badge/China_Southern_Airlines-E60021?style=flat&logo=chinasouthernairlines&logoColor=white">
+<img src="https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoftonedrive&logoColor=white">
+<img src="https://img.shields.io/badge/REWE-CC071E?style=flat&logo=rewe&logoColor=white">
+<img src="https://img.shields.io/badge/Outlook-106EBE?style=flat&logo=microsoftoutlook&logoColor=white">
+<img src="https://img.shields.io/badge/Edge-4DD276?style=flat&logo=microsoftedge&logoColor=white">
+<img src="https://img.shields.io/badge/MINECRAFT-34AA2F?style=flat&logo=minecraft&logoColor=white">
+<img src="https://img.shields.io/badge/IKEA-0058AB?style=flat&logo=ikea&logoColor=white">
+<img src="https://img.shields.io/badge/FileZilla-B10101?style=flat&logo=filezilla&logoColor=white">
+<img src="https://img.shields.io/badge/Guangzhou_Metro-C9072C?style=flat&logo=guangzhoumetro&logoColor=white">
+<img src="https://img.shields.io/badge/Taobao-FF5100?style=flat&logo=taobao&logoColor=white">
+<img src="https://img.shields.io/badge/Vodafone-E60000?style=flat&logo=vodafone&logoColor=white">
+<img src="https://img.shields.io/badge/Xiaomi-FF6700?style=flat&logo=xiaomi&logoColor=white">
