@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-9C033A?style=flat&logo=c%2B%2B&">
 <img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-282E34.svg?logo=gnu-bash&logoColor=white">
 
 ### 💻 Devices
 <img src="https://img.shields.io/badge/Microsoft-Surface%20Book%203-0067B8?style=flat&logo=microsoft&logoColor=default"> <img src="https://img.shields.io/badge/Huawei-P40_Pro+-C7000B?logo=huawei&logoColor=white">
