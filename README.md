@@ -17,9 +17,9 @@
 ## 📘 I'm currently working on:
 
 <p align="middle">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DDD&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DAISIE&theme=light&show_icons=ture" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eve&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DDD&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DAISIE&theme=light&show_icons=ture" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eve&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="middle">
