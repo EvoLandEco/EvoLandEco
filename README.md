@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/WordPress-1C80CC?logo=wordpress&logoColor=white">
 
 ### 🎭 Social
-<img src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"> 
+<img src="http://img.shields.io/badge/-GitHub-24292F?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"> 
 <img src="http://img.shields.io/badge/-QQ-169ADA?style=flat&logo=tencentqq&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-WeChat-05DB6C?style=flat&logo=wechat&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Bilibili-FB7299?style=flat&logo=bilibili&logoColor=FFFFFF">
@@ -74,12 +74,12 @@
 <img src="https://img.shields.io/badge/Discord-404EED?style=flat&logo=discord&logoColor=white"> 
 
 ### 🕹 Games
-<img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white">
+<img src="https://img.shields.io/badge/Steam-171A21?style=flat&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=flat&logo=nintendo-switch&logoColor=white">
 <img src="https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white">
 <img src="https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white">
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white">
 <img src="https://img.shields.io/badge/-GOG-411B64?logo=gogdotcom&logoColor=white">
-<img src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-OBS%20Studio-1C2B71?logo=obs-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Twitch-451093?logo=twitch&logoColor=white">
 
 ### 🎲 Misc
