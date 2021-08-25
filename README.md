@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Microsoft-Surface%20Book%203-0067B8?style=flat&logo=microsoft&logoColor=default"> <img src="https://img.shields.io/badge/Huawei-P40_Pro+-C7000B?logo=huawei&logoColor=white">
 <img src="https://img.shields.io/badge/Huawei-Watch GT2 Ecg-C7000B?logo=huawei&logoColor=white">
 <img src="https://img.shields.io/badge/Sennheiser-Momentum 3 Wireless-000000?logo=sennheiser&logoColor=white">
-<img src="https://img.shields.io/badge/Samsung-CJ79-000000?logo=samsung&logoColor=white">
+<img src="https://img.shields.io/badge/Samsung-CJ79-144098?logo=samsung&logoColor=white">
 
 ### 🧰 Workspace Spec
 <img src="https://img.shields.io/badge/Windows-666666?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
