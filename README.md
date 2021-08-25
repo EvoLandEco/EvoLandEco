@@ -44,7 +44,9 @@
 <img src="https://img.shields.io/badge/Logitech-MX Master 3-009B85?logo=logitech&logoColor=white">
 
 ### 🧰 Workspace Spec
-<img src="https://img.shields.io/badge/Windows-666666?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-388AE8?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/Intel-0071C5?style=flat&logo=intel&logoColor=white">
 <img src="http://img.shields.io/badge/-VS%20Code-005BA4?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/R%20Studio-75AADB?style=flat&logo=rstudio&logoColor=white">
 <img src="http://img.shields.io/badge/PyCharm-20D68C?style=flat&logo=pycharm&logoColor=white">
