@@ -25,7 +25,7 @@
   <a href="https://github.com/EvoLandEco?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=flat&logoColor=white&logo=repo"/></a>
 </p>
 
-## ✨ My favorites: 
+## ✨ My favorite badge collection: 
 ### 👨‍💻 Programming Languages
 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
