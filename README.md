@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on theoretical ecology @tece-lab
 - 🌱 I’m currently learning all but my mother language
 - 👯 I’m looking to collaborate on R projects
-- ⚡ Fun fact: I hope **GitHub Copilot** will supersede humanbeing
+- ⚡ Fun fact: I hope **GitHub Copilot** will supersede humanbeings
 
 
 ## 📘 I'm currently working on:
