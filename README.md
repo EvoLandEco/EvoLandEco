@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I hope **GitHub Copilot** will supersede humanbeings
 
 
-## 📘 I'm currently working on:
+## 🧠 I'm currently working on:
 
 <p align="middle">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DDD&theme=light&show_icons=ture" alt="github-readme-streak-stats"></a>
@@ -26,7 +26,7 @@
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=flat&logoColor=white&logo=repo"/></a>
 </p>
 
-## 🛠️ My favorites: 
+## ✨ My favorites: 
 ### 👨‍💻 Programming Languages
 
 
