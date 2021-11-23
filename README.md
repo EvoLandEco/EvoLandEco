@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on theoretical ecology @tece-lab
 - 🌱 I’m currently learning all but my mother language
 - 👯 I’m looking to collaborate on R projects
-- ⚡ Fun fact: I manually picked color for all my badges
+- ⚡ Fun fact: I manually picked colors for all my badges
 
 ## 🧠 I'm currently working on:
 
