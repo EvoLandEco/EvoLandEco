@@ -16,9 +16,9 @@
 ## 🧠 I'm currently working on:
 
 <p align="middle">
-  <a href="https://github.com/rsetienne/DDD"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsetienne&repo=DDD&theme=light&show_icons=ture" alt="DDD"></a>
-  <a href="https://github.com/EvoLandEco/eve"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eve&theme=light&show_icons=ture" alt="DAISIE"></a>
-  <a href="https://github.com/tresinformal/game"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tresinformal&repo=game&theme=light&show_icons=ture" alt="eve"></a>
+  <a href="https://github.com/EvoLandEco/eveABC"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eveABC&theme=light&show_icons=ture" alt="eveABC"></a>
+  <a href="https://github.com/EvoLandEco/eve"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eve&theme=light&show_icons=ture" alt="eve"></a>
+  <a href="https://github.com/EvoLandEco/eveGNN"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvoLandEco&repo=eveGNN&theme=light&show_icons=ture" alt="eveGNN"></a>
 </p>
 
 <p align="left">
